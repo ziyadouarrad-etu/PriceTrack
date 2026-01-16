@@ -1,0 +1,8 @@
+# Web Framework
+Django==6.0.1
+
+# Browser Automation
+playwright==1.57.0
+
+# Async/Sync Support
+asgiref==3.7.2

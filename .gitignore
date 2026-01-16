@@ -1,0 +1,20 @@
+# Django
+db.sqlite3
+__pycache__/
+*.py[cod]
+*$py.class
+local_settings.py
+media/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Scraper Results
+results/
+*.csv
+*.json
+
+# Playwright
+.auth/
