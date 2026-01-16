@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Products_Aggregator.urls'
+ROOT_URLCONF = 'PriceTrack.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Products_Aggregator.wsgi.application'
+WSGI_APPLICATION = 'PriceTrack.wsgi.application'
 
 
 # Database
